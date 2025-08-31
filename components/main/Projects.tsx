@@ -8,7 +8,7 @@ const projectData = [
     title: "Chatter",
     description: "A real-time chat application built with MERN stack and Socket.io",
     techStack: ["React", "TypeScript","Socket.io", "Tailwind CSS" ,"MongoDB"],
-    visitLink: "https://chat-app-p.up.railway.app/",
+    visitLink: "https://chat-app-eight-sooty-32.vercel.app/",
   },
   {
     src: "/Screenshot 2025-02-13 040525.png",
